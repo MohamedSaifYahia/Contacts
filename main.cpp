@@ -1,13 +1,4 @@
 
-//=================================================================================
-// Name         : DS Assignment#3 
-// Author       : Mohamed Saifeldin Yahia
-// Version      : 1.0
-// Date Created : 03-20-2022
-// Date Modified: 04-19-2022
-// Description  : Starter Code for Contact Management System using BST Tree in C++
-// Copyright © 2022 Khalid Mengal and Mai Oudah. All rights reserved.
-//=================================================================================
 #include "contactfunctions.h"
 #include "contactbst.h"
 #include "contact.h"
